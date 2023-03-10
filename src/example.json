@@ -1,0 +1,23 @@
+{
+    "list": [
+      {
+        "id": 1,
+        "name": "Domates",
+        "price": 25,
+        "image" : "https://cdn1.ntv.com.tr/gorsel/RCOrfta2hUGI2SBC_i71pA.jpg?width=952&height=540&mode=both&scale=both"
+      },
+      {
+        "id": 2,
+        "name": "Biber",
+        "price": 30,
+        "image" : "https://termodizayn.com/thumb.php?p=./img/uploads/muhafazakosullari/icerik/17-biber1.jpg&h=434"
+      },
+      {
+        "id": 3,
+        "name": "Patlıcan",
+        "price": 40,
+        "image" : "https://static.ticimax.cloud/30597/uploads/urunresimleri/buyuk/greenadakemer-patlican-500-g-d9bc32.jpg"
+      }
+    ]
+  }
+  
